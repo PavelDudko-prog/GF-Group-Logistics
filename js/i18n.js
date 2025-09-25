@@ -70,7 +70,10 @@ window.I18N = {
     contact: {
       title: "Contacts",
       phone_label: "Phone",
-      email_label: "E-mail"
+      email_label: "E-mail",
+      usdot_label: "USDOT",
+      mc_label: "MC",
+      insurance_label: "Insurance"
     },
     footer: {
       rights: "© 2025 GF Group Logistics. All rights reserved.",
@@ -141,7 +144,7 @@ window.I18N = {
       quote: "Расчёт"
     },
     hero: {
-      headline: "Перевозки, на которые можно опереться",
+      headline: "Перевозки, на которые можно положиться",
       subheadline: "Доставка корреспонденции, мелких и средних грузов, перевозка животных, трансфер",
       cta_primary: "Получить расчёт",
       cta_secondary: "Позвонить"
@@ -197,7 +200,10 @@ window.I18N = {
     contact: {
       title: "Контакты",
       phone_label: "Телефон",
-      email_label: "E-mail"
+      email_label: "E-mail",
+      usdot_label: "USDOT",
+      mc_label: "MC",
+      insurance_label: "Страховка"
     },
     footer: {
       rights: "© 2025 GF Group Logistics. Все права защищены.",
@@ -324,7 +330,10 @@ window.I18N = {
     contact: {
       title: "Контакти",
       phone_label: "Телефон",
-      email_label: "E-mail"
+      email_label: "E-mail",
+      usdot_label: "USDOT",
+      mc_label: "MC",
+      insurance_label: "Страхування"
     },
     footer: {
       rights: "© 2025 GF Group Logistics. Всі права захищені.",

@@ -12,7 +12,7 @@
 
   function applyI18n() {
     document.querySelectorAll('[data-i18n]').forEach(el => {
-      el.textContent = t(el.getAttribute('data-i18n'));
+      el.innerHTML = t(el.getAttribute('data-i18n'));
     });
     document.querySelectorAll('[data-i18n-ph]').forEach(el => {
       el.setAttribute('placeholder', t(el.getAttribute('data-i18n-ph')));

@@ -91,7 +91,7 @@ a {
 
   height: 60px;
 padding: 4px 0;
-  background:#dcdcdc;
+  background:#0d0d0d;
  object-fit: contain;
   border-radius: 8px;
 
@@ -258,7 +258,7 @@ padding: 4px 0;
 }
 
 .map-placeholder {
-  width: 90%;
+  width: 100%;
 
   aspect-ratio: 16/9;
 

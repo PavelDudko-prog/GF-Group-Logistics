@@ -15,9 +15,7 @@ window.I18N = {
     },
     hero: {
       headline: "Transport you can rely on",
-      subheadline: `Company GF Group Logistics has been working for you since 2023. The main specialization of our company is express courier services.Our couriers are available 24/7 and can deliver your shipment from Minnesota to any U.S. state in the shortest possible time. We handle both individual orders and long-term contracts with other companies for courier services.
-Fill out the form and our manager will contact you shortly.
-We look forward to working with you!`,
+      subheadline: `The company <strong>GF Group Logistics</strong> has been working for you since 2023. Our main specialization is providing <strong>express courier</strong> services. Our couriers are available <strong>24/7</strong> and can deliver your shipment from <strong>Minnesota</strong> to <strong>any state</strong> in the shortest possible time. We handle both <strong>individual orders</strong> and conclude <strong>contracts</strong> with other companies to provide courier services. Fill out the form and our manager will contact you shortly. We look forward to working with you!`,
       cta_primary: "Get a quote",
       cta_secondary: "Call now"
     },
@@ -147,8 +145,7 @@ We look forward to working with you!`,
     },
     hero: {
       headline: "Перевозки, на которые можно положиться",
-      subheadline: `Компания GF Group Logistics работает для вас с 2023 года. Основная специализация нашей компании: предоставление услуг экспресс курьера. Наши курьеры доступны для вас 24/7 и смогут доставить ваш груз из Миннесоты в любой штат, в кратчайшие сроки. Выполняем как индивидуальные заказы, так и заключаем контракты с другими компаниями на предоставление курьерских услуг.
-      Заполните заявку и наш менеджер свяжется с вами в ближайшее время. Будем рады сотрудничать с вами!`,
+      subheadline: `Компания <strong>GF Group Logistics</strong> работает для вас с 2023 года. Основная специализация нашей компании: предоставление услуг <strong>экспресс курьера</strong>. Наши курьеры доступны для вас <strong>24/7</strong> и смогут доставить ваш груз из <strong>Миннесоты</strong> в <strong>любой штат</strong>, в кратчайшие сроки. Выполняем как <strong>индивидуальные заказы</strong>, так и заключаем <strong>контракты</strong> с другими компаниями на предоставление курьерских услуг. Заполните заявку и наш менеджер свяжется с вами в ближайшее время. Будем рады сотрудничать с вами!`,
       cta_primary: "Получить расчёт",
       cta_secondary: "Позвонить"
     },
@@ -278,9 +275,7 @@ We look forward to working with you!`,
     },
     hero: {
       headline: "Перевезення, яким довіряють",
-      subheadline: `Компанія GF Group Logistics працює для вас з 2023 року. Основна спеціалізація нашої компанії — надання послуг експрес-кур’єра. Наші кур’єри доступні 24/7 і можуть доставити ваш вантаж з Міннесоти до будь-якого штату США у найкоротші терміни.Виконуємо як індивідуальні замовлення, так і укладаємо контракти з іншими компаніями на надання кур’єрських послуг.
-Заповніть заявку, і наш менеджер зв’яжеться з вами найближчим часом.
-Будемо раді співпраці з вами!`,
+      subheadline: `Компанія <strong>GF Group Logistics</strong> працює для вас з 2023 року. Основна спеціалізація нашої компанії — надання послуг <strong>експрес кур’єра</strong>. Наші кур’єри доступні <strong>24/7</strong> і можуть доставити ваш вантаж з <strong>Міннесоти</strong> в <strong>будь-який штат</strong> у найкоротші терміни. Ми виконуємо як <strong>індивідуальні замовлення</strong>, так і укладаємо <strong>контракти</strong> з іншими компаніями на надання кур’єрських послуг. Заповніть заявку, і наш менеджер зв’яжеться з вами найближчим часом. Будемо раді співпраці!`,
       cta_primary: "Отримати розрахунок",
       cta_secondary: "Подзвонити"
     },
@@ -410,8 +405,7 @@ window.I18N.es = {
   },
   hero: {
     headline: "Transporte en el que puedes confiar",
-    subheadline: `La empresa GF Group Logistics trabaja para usted desde 2023. La principal especialización de nuestra compañía es la prestación de servicios de mensajería exprés. Nuestros mensajeros están disponibles las 24 horas y pueden entregar su envío desde Minnesota a cualquier estado de EE. UU. en el menor tiempo posible. Realizamos tanto pedidos individuales como contratos con otras empresas para la prestación de servicios de mensajería.
-Complete el formulario y nuestro gerente se pondrá en contacto con usted en breve. ¡Estaremos encantados de colaborar con usted!`,
+    subheadline: `La empresa <strong>GF Group Logistics</strong> trabaja para usted desde 2023. Nuestra principal especialización es ofrecer servicios de <strong>mensajería exprés</strong>. Nuestros mensajeros están disponibles <strong>24/7</strong> y pueden entregar su envío desde <strong>Minnesota</strong> a <strong>cualquier estado</strong> en el menor tiempo posible. Realizamos tanto <strong>pedidos individuales</strong> como firmamos <strong>contratos</strong> con otras empresas para ofrecer servicios de mensajería. Complete el formulario y nuestro gerente se pondrá en contacto con usted pronto. ¡Estaremos encantados de colaborar con usted!`,
     cta_primary: "Obtener cotización",
     cta_secondary: "Llamar ahora"
   },

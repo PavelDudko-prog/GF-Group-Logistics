@@ -4,7 +4,7 @@ window.I18N = {
       brand: "GF Group Logistics",
       phoneDisplay: "+1 763 485 6877",
       phoneRaw: "+17634856877",
-      email: "jw.vg1998@gmail.com",
+      email: "gf.group.dl@gmail.com",
       tagline: "Logistics from Minnesota across all U.S. states"
     },
     nav: {
@@ -15,7 +15,9 @@ window.I18N = {
     },
     hero: {
       headline: "Transport you can rely on",
-      subheadline: "Documents delivery, small & medium freight, animal transport, passenger transfer",
+      subheadline: `Company GF Group Logistics has been working for you since 2023. The main specialization of our company is express courier services.Our couriers are available 24/7 and can deliver your shipment from Minnesota to any U.S. state in the shortest possible time. We handle both individual orders and long-term contracts with other companies for courier services.
+Fill out the form and our manager will contact you shortly.
+We look forward to working with you!`,
       cta_primary: "Get a quote",
       cta_secondary: "Call now"
     },
@@ -25,7 +27,7 @@ window.I18N = {
         documents: "Documents delivery",
         small_medium: "Small & medium freight",
         pets: "Animal transport",
-        transfer: "Passenger transfer"
+        transfer: "VIP transfer"
       }
     },
     coverage: {
@@ -134,7 +136,7 @@ window.I18N = {
       brand: "GF Group Logistics",
       phoneDisplay: "+1 763 485 6877",
       phoneRaw: "+17634856877",
-      email: "jw.vg1998@gmail.com",
+      email: "gf.group.dl@gmail.com",
       tagline: "Логистика из Миннесоты по всем штатам США"
     },
     nav: {
@@ -145,7 +147,8 @@ window.I18N = {
     },
     hero: {
       headline: "Перевозки, на которые можно положиться",
-      subheadline: "Доставка корреспонденции, мелких и средних грузов, перевозка животных, трансфер",
+      subheadline: `Компания GF Group Logistics работает для вас с 2023 года. Основная специализация нашей компании: предоставление услуг экспресс курьера. Наши курьеры доступны для вас 24/7 и смогут доставить ваш груз из Миннесоты в любой штат, в кратчайшие сроки. Выполняем как индивидуальные заказы, так и заключаем контракты с другими компаниями на предоставление курьерских услуг.
+      Заполните заявку и наш менеджер свяжется с вами в ближайшее время. Будем рады сотрудничать с вами!`,
       cta_primary: "Получить расчёт",
       cta_secondary: "Позвонить"
     },
@@ -155,7 +158,7 @@ window.I18N = {
         documents: "Доставка корреспонденции",
         small_medium: "Малые и средние грузы",
         pets: "Перевозка животных",
-        transfer: "Трансфер"
+        transfer: "VIP-Трансфер"
       }
     },
     coverage: {
@@ -264,7 +267,7 @@ window.I18N = {
       brand: "GF Group Logistics",
       phoneDisplay: "+1 763 485 6877",
       phoneRaw: "+17634856877",
-      email: "jw.vg1998@gmail.com",
+      email: "gf.group.dl@gmail.com",
       tagline: "Логістика з Міннесоти по всіх штатах США"
     },
     nav: {
@@ -275,7 +278,9 @@ window.I18N = {
     },
     hero: {
       headline: "Перевезення, яким довіряють",
-      subheadline: "Доставка кореспонденції, малі та середні вантажі, перевезення тварин, трансфер",
+      subheadline: `Компанія GF Group Logistics працює для вас з 2023 року. Основна спеціалізація нашої компанії — надання послуг експрес-кур’єра. Наші кур’єри доступні 24/7 і можуть доставити ваш вантаж з Міннесоти до будь-якого штату США у найкоротші терміни.Виконуємо як індивідуальні замовлення, так і укладаємо контракти з іншими компаніями на надання кур’єрських послуг.
+Заповніть заявку, і наш менеджер зв’яжеться з вами найближчим часом.
+Будемо раді співпраці з вами!`,
       cta_primary: "Отримати розрахунок",
       cta_secondary: "Подзвонити"
     },
@@ -285,7 +290,7 @@ window.I18N = {
         documents: "Доставка кореспонденції",
         small_medium: "Малі та середні вантажі",
         pets: "Перевезення тварин",
-        transfer: "Трансфер"
+        transfer: "VIP-трансфер"
       }
     },
     coverage: {
@@ -387,5 +392,135 @@ window.I18N = {
         <p>E-mail <a href="mailto:jw.vg1998@gmail.com">jw.vg1998@gmail.com</a>, телефон <a href="tel:+17634856877">+1 763 485 6877</a>.</p>
       `
     }
+  }
+}
+window.I18N.es = {
+  meta: {
+    brand: "GF Group Logistics",
+    phoneDisplay: "+1 763 485 6877",
+    phoneRaw: "+17634856877",
+    email: "gf.group.dl@gmail.com",
+    tagline: "Logística desde Minnesota a todos los estados de EE. UU."
+  },
+  nav: {
+    services: "Servicios",
+    coverage: "Cobertura",
+    contact: "Contactos",
+    quote: "Obtener cotización"
+  },
+  hero: {
+    headline: "Transporte en el que puedes confiar",
+    subheadline: `La empresa GF Group Logistics trabaja para usted desde 2023. La principal especialización de nuestra compañía es la prestación de servicios de mensajería exprés. Nuestros mensajeros están disponibles las 24 horas y pueden entregar su envío desde Minnesota a cualquier estado de EE. UU. en el menor tiempo posible. Realizamos tanto pedidos individuales como contratos con otras empresas para la prestación de servicios de mensajería.
+Complete el formulario y nuestro gerente se pondrá en contacto con usted en breve. ¡Estaremos encantados de colaborar con usted!`,
+    cta_primary: "Obtener cotización",
+    cta_secondary: "Llamar ahora"
+  },
+  services: {
+    title: "Servicios",
+    items: {
+      documents: "Entrega de documentos",
+      small_medium: "Carga pequeña y mediana",
+      pets: "Transporte de animales",
+      transfer: "Traslado VIP"
+    }
+  },
+  coverage: {
+    title: "Desde Minnesota — a nivel nacional",
+    text: "Recogida y entrega en todos los estados"
+  },
+  credentials: {
+    title: "Credenciales",
+    dot: "USDOT",
+    mc: "MC",
+    insurance: "Seguro"
+  },
+  form: {
+    title: "Solicitar cotización",
+    fields: {
+      name: "Nombre del cliente",
+      phone: "Teléfono",
+      email: "E-mail",
+      pickup: "Dirección de recogida",
+      dropoff: "Dirección de entrega",
+      cargo_type: "Descripción de la carga",
+      volume: "Volumen",
+      weight: "Peso",
+      comment: "Comentario",
+      consent: "Acepto la Política de Privacidad"
+    },
+    placeholders: {
+      name: "Juan Pérez",
+      phone: "+1 (___) ___-____",
+      email: "nombre@ejemplo.com",
+      pickup: "Ciudad, ZIP, dirección",
+      dropoff: "Ciudad, ZIP, dirección",
+      cargo_type: "Qué exactamente, frágil, condiciones especiales",
+      volume: "por ejemplo, 1 m³",
+      weight: "por ejemplo, 50 lb",
+      comment: "Detalles o tiempos"
+    },
+    submit: "Enviar solicitud",
+    success: "¡Gracias! Hemos recibido tu solicitud.",
+    error: "No se pudo enviar. Inténtalo de nuevo."
+  },
+  contact: {
+    title: "Contactos",
+    phone_label: "Teléfono",
+    email_label: "E-mail",
+    usdot_label: "USDOT",
+    mc_label: "MC",
+    insurance_label: "Seguro"
+  },
+  footer: {
+    rights: "© 2025 GF Group Logistics. Todos los derechos reservados.",
+    privacy: "Política de Privacidad"
+  },
+  alerts: {
+    validation: {
+      required: "Campo obligatorio",
+      email: "Introduce un e-mail válido",
+      phone: "Introduce un número de teléfono válido",
+      consent: "Debes aceptar la Política de Privacidad"
+    }
+  },
+  privacy: {
+    title: "Política de Privacidad",
+    content: `
+      <p>Última actualización: 2025-09-10</p>
+      <p>GF Group Logistics (“nosotros”) ofrece servicios de transporte en los Estados Unidos. Esta política explica qué información personal recopilamos, cómo la usamos y tus derechos según las leyes estadounidenses, incluidas las estatales como la Ley de Privacidad del Consumidor de California (CCPA/CPRA).</p>
+      <h4>Información que recopilamos</h4>
+      <ul>
+        <li>Identificadores y datos de contacto (nombre, teléfono, e-mail, direcciones).</li>
+        <li>Información comercial (solicitudes, cotizaciones, transacciones).</li>
+        <li>Detalles logísticos (recogida/entrega, descripción de la carga, peso/volumen).</li>
+        <li>Actividad en internet desde nuestro sitio (IP, dispositivo, páginas) si la analítica está habilitada.</li>
+      </ul>
+      <h4>Cómo usamos la información</h4>
+      <ul>
+        <li>Proporcionar cotizaciones y realizar servicios de transporte.</li>
+        <li>Atención al cliente y comunicaciones.</li>
+        <li>Seguridad, prevención de fraudes y cumplimiento legal.</li>
+        <li>Analítica y mejora del servicio.</li>
+      </ul>
+      <h4>Compartición</h4>
+      <p>Compartimos datos con proveedores de servicios (hosting, formularios, analítica, comunicaciones) bajo contratos que limitan su uso. No vendemos tu información personal ni la compartimos con fines publicitarios cruzados.</p>
+      <h4>Retención</h4>
+      <p>Guardamos los datos solo el tiempo necesario para los fines anteriores y los requisitos legales, luego los eliminamos o anonimizamos.</p>
+      <h4>Tus derechos</h4>
+      <ul>
+        <li>Acceso, corrección y eliminación de tus datos.</li>
+        <li>Limitar el uso de datos sensibles cuando sea aplicable.</li>
+        <li>Apelar una negativa cuando la ley lo requiera.</li>
+      </ul>
+      <p>Para ejercer tus derechos, escribe a <a href="mailto:jw.vg1998@gmail.com">jw.vg1998@gmail.com</a> o llama al <a href="tel:+17634856877">+1 763 485 6877</a>. Verificaremos tu identidad y responderemos según la ley.</p>
+      <h4>Niños</h4>
+      <p>Nuestros servicios no están dirigidos a menores de 13 años, y no recopilamos conscientemente sus datos.</p>
+      <h4>Seguridad</h4>
+      <p>Usamos medidas técnicas y organizativas razonables para proteger la información.</p>
+      <h4>Cambios</h4>
+      <p>Podemos actualizar esta política y publicaremos la nueva versión con la fecha actualizada.</p>
+      <h4>Contacto</h4>
+      <p>E-mail <a href="mailto:jw.vg1998@gmail.com">jw.vg1998@gmail.com</a> o llama al <a href="tel:+17634856877">+1 763 485 6877</a>.</p>
+    `
   }
 }

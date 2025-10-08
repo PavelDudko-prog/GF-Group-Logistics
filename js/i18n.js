@@ -50,7 +50,7 @@ window.I18N = {
         volume: "Volume",
         weight: "Weight",
         comment: "Comment",
-        consent: "I agree to the Privacy Policy"
+        consent: "I agree to the"
       },
       placeholders: {
         name: "John Doe",
@@ -71,8 +71,8 @@ window.I18N = {
       title: "Contacts",
       phone_label: "Phone",
       email_label: "E-mail",
-      usdot_label: "USDOT",
-      mc_label: "MC",
+      usdot_label: "Banking details",
+      mc_label: "Address",
       insurance_label: "Insurance"
     },
     footer: {
@@ -124,7 +124,7 @@ window.I18N = {
         <h4>Changes</h4>
         <p>We may update this policy and will post the new version with the updated date.</p>
         <h4>Contact</h4>
-        <p>Email <a href="mailto:jw.vg1998@gmail.com">jw.vg1998@gmail.com</a> or call <a href="tel:+17634856877">+1 763 485 6877</a>.</p>
+        <p>Email <a href="mailto:gf.group.dl@gmail.com">jw.vg1998@gmail.com</a> or call <a href="tel:+17634856877">+1 763 485 6877</a>.</p>
       `
     }
   },
@@ -180,7 +180,7 @@ window.I18N = {
         volume: "Объём",
         weight: "Вес",
         comment: "Комментарий",
-        consent: "Согласен с Политикой конфиденциальности"
+        consent: "Согласен с"
       },
       placeholders: {
         name: "Иван Иванов",
@@ -201,8 +201,8 @@ window.I18N = {
       title: "Контакты",
       phone_label: "Телефон",
       email_label: "E-mail",
-      usdot_label: "USDOT",
-      mc_label: "MC",
+      usdot_label: "Реквизиты",
+      mc_label: "Адрес",
       insurance_label: "Страховка"
     },
     footer: {
@@ -310,7 +310,7 @@ window.I18N = {
         volume: "Об'єм",
         weight: "Вага",
         comment: "Коментар",
-        consent: "Погоджуюсь з Політикою конфіденційності"
+        consent: "Погоджуюсь з"
       },
       placeholders: {
         name: "Іван Іванов",
@@ -331,8 +331,8 @@ window.I18N = {
       title: "Контакти",
       phone_label: "Телефон",
       email_label: "E-mail",
-      usdot_label: "USDOT",
-      mc_label: "MC",
+      usdot_label: "Реквізити",
+      mc_label: "Адрес",
       insurance_label: "Страхування"
     },
     footer: {
@@ -440,7 +440,7 @@ window.I18N.es = {
       volume: "Volumen",
       weight: "Peso",
       comment: "Comentario",
-      consent: "Acepto la Política de Privacidad"
+      consent: "Acepto la"
     },
     placeholders: {
       name: "Juan Pérez",
@@ -461,8 +461,8 @@ window.I18N.es = {
     title: "Contactos",
     phone_label: "Teléfono",
     email_label: "E-mail",
-    usdot_label: "USDOT",
-    mc_label: "MC",
+    usdot_label: "Datos bancarios",
+    mc_label: "Dirección",
     insurance_label: "Seguro"
   },
   footer: {
